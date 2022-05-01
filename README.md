@@ -13,8 +13,11 @@ It is important to install requests, python-dotenv, alpaca-trade-api, and json u
 ### Command Line Installation
 
 ```conda install -c anaconda requests```
+
 ```conda install -c jmcmurray json```
+
 ```pip install python-dotenv```
+
 ```pip install alpaca-trade-api```
 
 ## Contributors
